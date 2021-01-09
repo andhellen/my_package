@@ -11,5 +11,5 @@
         "psr-4": {
             "andrey_naidyonov\\my_package\\": "classes"
         }
-    },
+    }
 }
