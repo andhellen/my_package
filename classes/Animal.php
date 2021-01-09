@@ -1,6 +1,6 @@
 <?php
 
-use andrey_naidyonov\my_package\classes\Animal;
+namespace andrey_naidyonov\my_package;
 
 class Animal
 {
