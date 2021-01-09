@@ -4,5 +4,12 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "andrey_naidyonov/my_package": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "andrey_naidyonov\\my_package\\": "classes"
+        }
+    },
 }
