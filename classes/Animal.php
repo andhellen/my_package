@@ -1,5 +1,7 @@
 <?php
 
+use andrey_naidyonov\my_package\classes\Animal;
+
 class Animal
 {
     public $name;
